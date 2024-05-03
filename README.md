@@ -38,3 +38,6 @@ DESCRIPTION:
 # Blog Link:
 https://www.blogger.com/blog/posts/4594539423379074336
 
+# Presentation Link:
+https://studentsdesu-my.sharepoint.com/:p:/r/personal/ungadeu18_students_desu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B5A827354-6E74-4D0F-8F76-F6694C313A14%7D&file=Unknown%20Support.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&login_hint=ungadeu18%40students.desu.edu&ct=1714760192564&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=d234f2ad-1d74-4740-8794-55c38afbf95e&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=50b5fbb3-2cc9-4e4e-9045-c84e1dbda63a
+
