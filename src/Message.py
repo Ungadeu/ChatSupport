@@ -6,7 +6,7 @@ class PeerToPeerChat:
         # Initialize socket for peer communication
         self.socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.host = '0.0.0.0'  # Allow connections from any interface
-        self.port = 8090  # Default port for communication
+        self.port = 8091  # Default port for communication
         self.peers = {}  # Dictionary to store connected peers
 
     def start(self):
