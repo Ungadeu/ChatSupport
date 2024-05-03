@@ -6,7 +6,7 @@ DESCRIPTION:
 * There is no specific message format enforced in the code, so messages can be any arbitrary text.
 
 # Order of Messages:
-* When a peer sends a message, it is broadcasted to all other connected peers.
+* When a peer sends a message, it is broadcast to all other connected peers.
 * The server does not enforce a specific order for message delivery among peers. Messages are sent asynchronously as they are received from clients.
 
 # Actions Taken on Message Transmission and Receipt:
@@ -32,5 +32,5 @@ DESCRIPTION:
 # Usage:
 * To use the application, you run the provided code to start the server.
 * Once the server is running, it listens for incoming connections from peers.
-* Peers can connect to the server and send messages, which will be broadcasted to all other connected peers.
-* The example usage at the end of the code demonstrates how to send a message to all peers connected to the server by using the `broadcast` method.
+* Peers can connect to the server and send messages, which will be broadcast to all other connected peers.
+* The example used at the end of the code demonstrates how to send a message to all peers connected to the server by using the `broadcast` method.
